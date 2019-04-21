@@ -17,4 +17,6 @@
     <string name="share">Share</string>
     <string name="send">Send</string>
     <string name="minus">-</string>
+    <string name="no_internet_access">No Internet Access</string>
+    <string name="your_page_is_empty">Your page is empty</string>
 </resources>
